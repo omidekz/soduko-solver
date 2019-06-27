@@ -1,5 +1,5 @@
-#python Sudoku Solver
-###you can use this class to solve an n*n sudoku
+# python Sudoku Solver
+### you can use this class to solve an n*n sudoku
 
 it's very simple to use
 for example i have an 3*3 sudoku:
