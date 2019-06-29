@@ -1,5 +1,5 @@
 # python Sudoku Solver
-### you can use this class to solve an n*n sudoku
+### you can use this class to solve an n*n sudoku by [CSP](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem) solution
 
 it's very simple to use
 for example i have an 3*3 sudoku:
